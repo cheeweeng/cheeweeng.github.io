@@ -1,6 +1,5 @@
 # Projects Portfolio
 
-Bookmark this page to get my project updates!
 ## Data Wrangling, Analytics & Visualisation
 > 1. [Data wrangling using MySQL statements](https://cheeweeng.github.io/data_wrangling_MySQL/)
 >    * CREATE Table, ALTER Table, Modify data type, mapping data;
