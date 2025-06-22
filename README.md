@@ -1,3 +1,14 @@
-# cheewee's homepage
+# Projects Portfolio
 
 Bookmark this page to get my project updates!
+## Data Wrangling, Analytics & Visualisation
+> 1. [Data wrangling using MySQL statements](https://cheeweeng.github.io/data_wrangling_MySQL/)
+>    * CREATE Table, ALTER Table, Modify data type, mapping data;
+>    * Generate summary tables to explain relationship amongst the variables in the dataset  
+<p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
+
+> 2. Transform raw data
+>    * Create Python scripts to automate the acquisition and processing of web and spreadsheet data;
+>    * Assemble effective data flows in MySQL, Python & R as part of a reproducible workflow process;
+>    * Design and implement effective data visualizations in R  
+<p>Language/Prgram used: Python/Jupyter notebook, MySQL/TablePlus, R/R Studios</p>
