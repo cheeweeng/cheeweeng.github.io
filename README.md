@@ -5,7 +5,7 @@
 >    * all report writing and data work and data appendix are done within RMarkdown
 >    * extract elections data from the Elections Department (ELD) via data.gov.sg API
 >    * Constuct a range of visually compelling visualization to highlight significant events
-<p>Language/Program used: R/R Studio, Packages: tidyverse, ggplot2</p>
+<p>Language/Program used: R/R Studio, Packages: tidyverse, ggplot2, dplyr, jsonlite, geojsonsf</p>
 
 ## Data Wrangling, Analytics & Visualisation
 > 1. [Data wrangling using MySQL statements](https://cheeweeng.github.io/data_wrangling_MySQL/)
