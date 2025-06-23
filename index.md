@@ -1,7 +1,7 @@
 ---
-title: Home
+title: #Project Portfolio
 ---
-# Project Portfolio
+
 ## Data Visulization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
 >    * all report writing and data work and data appendix are done within RMarkdown
