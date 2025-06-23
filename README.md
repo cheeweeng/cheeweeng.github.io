@@ -11,3 +11,8 @@
 >    * Assemble effective data flows in MySQL, Python & R as part of a reproducible workflow process;
 >    * Design and implement effective data visualizations in R  
 <p>Language/Prgram used: Python/Jupyter notebook, MySQL/TablePlus, R/R Studios</p>
+
+## Hypothesis testing
+>* this project is to demostrate knowledge of how to conduct a [two-sample hypothesis test](https://cheeweeng.github.io/Hypothesis-testing/)
+>* using stats.ttest_ind(a, b, equal_var) function to conduct two-sample t-test
+<p>Language/Prgram used: Python/Jupyter notebook, libraries: Pandas, stats.scipy</p>
