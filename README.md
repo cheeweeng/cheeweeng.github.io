@@ -1,7 +1,7 @@
 # Projects Portfolio
 
 ## Data Visulization and Storytelling  
-> 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_SUSS/ANL501_ECA.html)"
+> 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_ECA.html)"
 >    * all report writing and data work and data appendix are done within RMarkdown
 >    * extract elections data from the Elections Department (ELD) via data.gov.sg API
 >    * Constuct a range of visually compelling visualization to highlight significant events
