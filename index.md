@@ -27,4 +27,8 @@ title: Project Portfolio
 >* using stats.ttest_ind(a, b, equal_var) function to conduct two-sample t-test
 <p>Language/Prgram used: Python/Jupyter notebook, libraries: Pandas, stats.scipy</p>
 
+## AI workflow automation (hobby project)
+>* a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
+<p>Program used: Zapier automation, Strava, Telegram bot, Webhook(GET request) </p>  
+
 [Back to github](https://github.com/cheeweeng)
