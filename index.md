@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio
+title: Projects Portfolio
 ---
 
 ## Data Visulization and Storytelling  
