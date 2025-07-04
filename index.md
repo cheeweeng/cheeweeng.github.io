@@ -22,13 +22,13 @@ title: Projects Portfolio
 >    * Generate summary tables to explain relationship amongst the variables in the dataset  
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
 
+## AI workflow automation (hobby project)
+>* a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
+<p>Program used: Zapier automation, Strava, Telegram bot, Webhook(GET request) </p>  
+
 ## Hypothesis testing
 >* this project is to demostrate knowledge of how to conduct a [two-sample hypothesis test](https://cheeweeng.github.io/Hypothesis-testing/)
 >* using stats.ttest_ind(a, b, equal_var) function to conduct two-sample t-test
 <p>Language/Prgram used: Python/Jupyter notebook, libraries: Pandas, stats.scipy</p>
-
-## AI workflow automation (hobby project)
->* a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
-<p>Program used: Zapier automation, Strava, Telegram bot, Webhook(GET request) </p>  
 
 [Back to github](https://github.com/cheeweeng)
