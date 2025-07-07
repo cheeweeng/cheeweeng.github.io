@@ -22,7 +22,11 @@ title: Projects Portfolio
 >    * Generate summary tables to explain relationship amongst the variables in the dataset  
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
 
-## AI workflow automation (hobby project)
+## AI workflow automation (hobby projects)  
+>* [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
+>* It integrates real-time weather data and generates a Google Maps links for navigation
+<p>Program used: Zapier automation, Claude.ai, Telegram, OpenWeatherMap API, OpenRouteService API</p>
+
 >* a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
 <p>Program used: Zapier automation, Strava, Telegram bot, Webhook(GET request) </p>  
 
