@@ -27,9 +27,10 @@ Welcome to my projects portfolio! I am a mid-career switcher transitioning into 
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
 
 ## Regression Analysis  
->  [Building and evaluting a simple linear regression](https://github.com/cheeweeng/simple-linear-regression/blob/main/index.md)  
-> This project was done in the course Regression Analysis: Simplify Complex Data Relationships,
-> which is part of Google Advanced Data Analytics Professional Certificate.
+>  [Building and evaluting a simple linear regression](https://cheeweeng.github.io/simple-linear-regression/)
+
+> * This project was done in the course Regression Analysis: Simplify Complex Data Relationships,
+> * which is part of [Google Advanced Data Analytics Professional Certificate.](https://coursera.org/share/f5603c8340d61c6a02fbfb912433d3b4)
 <p>Language/Program used: Python/Jupyter notebook, libraries: Pandas, statsmodels, matplotlib, seaborn</p>
 
 ## AI workflow automation (hobby projects)  
