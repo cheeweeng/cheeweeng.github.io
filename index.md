@@ -1,6 +1,10 @@
 ---
 title: Projects Portfolio
 ---
+Welcome to my projects portfolio! I am a mid-career switcher transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
+*  Programming for data analysis and machine learning - Python, SQL  
+*  Data Visualization - Tableau, Power BI  
+*  Automation - Power Automate, ServiceNow, make.com  
 
 ## Data Visulization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
@@ -21,6 +25,12 @@ title: Projects Portfolio
 >    * CREATE Table, ALTER Table, Modify data type, mapping data;
 >    * Generate summary tables to explain relationship amongst the variables in the dataset  
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
+
+## Regression Analysis  
+>  [Building and evaluting a simple linear regression](https://github.com/cheeweeng/simple-linear-regression/blob/main/index.md)  
+> This project was done in the course Regression Analysis: Simplify Complex Data Relationships,
+> which is part of Google Advanced Data Analytics Professional Certificate.
+<p>Language/Program used: Python/Jupyter notebook, libraries: Pandas, statsmodels, matplotlib, seaborn</p>
 
 ## AI workflow automation (hobby projects)  
 >* [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
