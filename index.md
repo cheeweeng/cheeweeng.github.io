@@ -4,7 +4,7 @@ title: Projects Portfolio
 Welcome to my projects portfolio! I am a mid-career switcher transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, Power BI  
-*  Automation - Power Automate, ServiceNow, make.com  
+*  Automation - Power Automate, ServiceNow, Zapier 
 
 ## Data Visulization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
@@ -16,15 +16,19 @@ Welcome to my projects portfolio! I am a mid-career switcher transitioning into 
 ## Data Wrangling, Analytics & Visualisation
 
 > 1. [Customer Satisfaction Analysis for a New Shopping Mall](https://cheeweeng.github.io/Data_Wrangling_Capstone_SUSS/)
->    * Create Python scripts to automate the acquisition and processing of web and spreadsheet data;
->    * Assemble effective data flows in MySQL, Python & R as part of a reproducible workflow process;
+>    * Create Python scripts to automate the acquisition and processing of web and spreadsheet data
+>    * Assemble effective data flows in MySQL, Python & R as part of a reproducible workflow process
 >    * Design and implement effective data visualizations in R  
 <p>Language/Prgram used: Python/Jupyter notebook, MySQL/TablePlus, R/R Studios</p>
 
 > 2. [Data wrangling using MySQL statements](https://cheeweeng.github.io/data_wrangling_MySQL/)
->    * CREATE Table, ALTER Table, Modify data type, mapping data;
+>    * CREATE Table, ALTER Table, Modify data type, mapping data
 >    * Generate summary tables to explain relationship amongst the variables in the dataset  
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
+
+## Predictive Analytics and M/L (E-Commerce Customer Analytics)
+>    * Data Preparation, [Transformation (Power Query) and Visualization (PowerBI)](https://cheeweeng.github.io/Data-Transformation-and-Visualization/)
+>    * Build and Evaluate a Churn prediction model using KNIME
 
 ## Regression Analysis  
 >  [Building and evaluting a simple linear regression](https://cheeweeng.github.io/simple-linear-regression/)
