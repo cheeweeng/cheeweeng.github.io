@@ -29,6 +29,7 @@ Welcome to my projects portfolio! I am a mid-career switcher transitioning into 
 ## Predictive Analytics and M/L (E-Commerce Customer Analytics)
 >    * Data Preparation, [Transformation (Power Query) and Visualization (PowerBI)](https://cheeweeng.github.io/Data-Transformation-and-Visualization/)
 >    * Build and Evaluate a [Churn prediction model using KNIME](https://cheeweeng.github.io/Churn-Prediction-Model-in-KNIME/)
+<p>Language/Program used: Excel Power Query, PowerBI Desktop, KNIME</p>  
 
 ## Regression Analysis  
 >  [Building and evaluting a simple linear regression](https://cheeweeng.github.io/simple-linear-regression/)
