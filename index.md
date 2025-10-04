@@ -1,10 +1,10 @@
 ---
 title: Projects Portfolio
 ---
-Welcome to my projects portfolio! I am a mid-career switcher transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
+Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, Power BI  
-*  Automation - Power Automate, UiPath, Zapier 
+*  Automation - Power Automate, UiPath, Zapier, Make.com 
 
 ## Data Visulization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
@@ -36,7 +36,11 @@ Welcome to my projects portfolio! I am a mid-career switcher transitioning into 
 
 > * This project was done in the course Regression Analysis: Simplify Complex Data Relationships,
 > * which is part of [Google Advanced Data Analytics Professional Certificate.](https://coursera.org/share/f5603c8340d61c6a02fbfb912433d3b4)
-<p>Language/Program used: Python/Jupyter notebook, libraries: Pandas, statsmodels, matplotlib, seaborn</p>
+<p>Language/Program used: Python/Jupyter notebook, libraries: Pandas, statsmodels, matplotlib, seaborn</p>  
+
+## LLM-powered Low code App Development  
+> * [Build a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
+<p>Language/Program used: Hugging Face, Flowise 
 
 ## AI workflow automation (hobby projects)  
 >* [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
