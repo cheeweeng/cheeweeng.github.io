@@ -43,9 +43,9 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 <p>Language/Program used: Hugging Face, Flowise</p>   
 
 
-<p>## AI workflow automation (hobby projects)  </p>
-<p>> * [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type</p>
-<p>> * It integrates real-time weather data and generates a Google Maps links for navigation</p>
+## AI workflow automation (hobby projects)  
+> * [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type  
+> * It integrates real-time weather data and generates a Google Maps links for navigation  
 <p>Program used: Zapier automation, Claude.ai, Telegram, OpenWeatherMap API, OpenRouteService API</p>
 
 > * a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
