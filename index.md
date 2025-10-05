@@ -40,7 +40,8 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 
 ## LLM-powered Low code App Development  
 > * [Build a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
-<p>Language/Program used: Hugging Face, Flowise 
+<p>Language/Program used: Hugging Face, Flowise   
+
 
 ## AI workflow automation (hobby projects)  
 > * [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
