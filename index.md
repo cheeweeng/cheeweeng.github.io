@@ -43,16 +43,16 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 <p>Language/Program used: Hugging Face, Flowise 
 
 ## AI workflow automation (hobby projects)  
->* [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
->* It integrates real-time weather data and generates a Google Maps links for navigation
+> * [Running Route Bot](https://cheeweeng.github.io/Running-route-bot/) is a Telegram bot that generates personalized running routes based on user inputs like distance, run type
+> * It integrates real-time weather data and generates a Google Maps links for navigation
 <p>Program used: Zapier automation, Claude.ai, Telegram, OpenWeatherMap API, OpenRouteService API</p>
 
->* a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
+> * a [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
 <p>Program used: Zapier automation, Strava, Telegram bot, Webhook(GET request) </p>  
 
 ## Hypothesis testing
->* this project is to demostrate knowledge of how to conduct a [two-sample hypothesis test](https://cheeweeng.github.io/Hypothesis-testing/)
->* using stats.ttest_ind(a, b, equal_var) function to conduct two-sample t-test
+> * this project is to demostrate knowledge of how to conduct a [two-sample hypothesis test](https://cheeweeng.github.io/Hypothesis-testing/)
+> * using stats.ttest_ind(a, b, equal_var) function to conduct two-sample t-test
 <p>Language/Prgram used: Python/Jupyter notebook, libraries: Pandas, stats.scipy</p>
 
 [Back to github](https://github.com/cheeweeng)
