@@ -4,9 +4,9 @@ title: Projects Portfolio
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, Power BI  
-*  Automation - Power Automate, UiPath, Zapier, Make.com 
+*  Automation - Power Automate, UiPath, Zapier, Make.com, n8n   
 
-## Data Visulization and Storytelling  
+## Data Visualization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
 >    * all report writing and data work and data appendix are done within RMarkdown
 >    * extract elections data from the Elections Department (ELD) via data.gov.sg API
