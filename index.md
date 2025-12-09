@@ -3,7 +3,7 @@ title: Projects Portfolio
 ---
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
 *  Programming for data analysis and machine learning - Python, SQL  
-*  Data Visualization - Tableau, Power BI  
+*  Data Visualization - Tableau, [Power BI  ](https://cheeweeng.github.io/Data-Visualisation-Story-Telling-with-PowerBI/)
 *  Automation - Power Automate, UiPath, Zapier, Make.com, n8n   
 
 ## Data Visualization and Storytelling  
