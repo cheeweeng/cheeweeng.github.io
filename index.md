@@ -4,7 +4,7 @@ title: Projects Portfolio
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, [Power BI  ](https://cheeweeng.github.io/Data-Visualisation-Story-Telling-with-PowerBI/)
-*  Automation - Power Automate, UiPath, Zapier, Make.com, n8n   
+*  Automation - n8n, Zapier, Make.com   
 
 ## Data Visualization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
@@ -34,6 +34,10 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 
 > * a personal [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
 <p>Program used: n8n, Zapier automation, Claude.ai, Telegram, SerpAPI, OpenWeatherMap API, OpenRouteService API, Strava</p> 
+
+## AI voice agent
+> * This [AI voice agent](https://github.com/cheeweeng/AI-Voice-Agent) handles inbound calls, check calendar and book appointments for a fictitious dental clinic.
+<p>Program used: Retell AI, Chatgpt, Youtube</p>
 
 ## LLM-powered Low code App Development  
 > * [Build a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
