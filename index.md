@@ -36,7 +36,7 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 <p>Program used: n8n, Zapier automation, Claude.ai, Telegram, SerpAPI, OpenWeatherMap API, OpenRouteService API, Strava</p> 
 
 ## AI voice agent
-> * This [AI voice agent](https://github.com/cheeweeng/AI-Voice-Agent) handles inbound calls, check calendar and book appointments for a fictitious dental clinic.
+> * This [AI voice agent](https://cheeweeng.github.io/AI-Voice-Agent/) handles inbound calls, check calendar and book appointments for a fictitious dental clinic.
 <p>Program used: Retell AI, Chatgpt, Youtube</p>
 
 ## LLM-powered Low code App Development  
