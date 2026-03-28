@@ -8,7 +8,7 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 *  Automation - n8n, Zapier, Make.com
 
 ## AI-Powered Applications
-> A curated collection of AI-powered applications, built using vibe-coding to solve real-world challenges. Each tool demonstrates how intuitive development accelerates the creation of practical, intelligent solutions.
+> A curated [collection of AI-powered applications](https://cheeweeng.github.io/Collection-of-AI-powered-Applications/), built using vibe-coding to solve real-world challenges. Each tool demonstrates how intuitive development accelerates the creation of practical, intelligent solutions.
 <p>Tech stack: Google AI Studio, Claude Code, Openclaw</p>
 
 ## Data Visualization and Storytelling  
