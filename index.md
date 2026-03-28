@@ -2,9 +2,14 @@
 title: Projects Portfolio
 ---
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
+*  AI-powered apps - Google AI Studio, Claude Code
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, [Power BI  ](https://cheeweeng.github.io/Data-Visualisation-Story-Telling-with-PowerBI/)
-*  Automation - n8n, Zapier, Make.com   
+*  Automation - n8n, Zapier, Make.com
+
+## AI-Powered Applications
+> A curated collection of AI-powered applications, built using vibe-coding to solve real-world challenges. Each tool demonstrates how intuitive development accelerates the creation of practical, intelligent solutions.
+<p>Tech stack: Google AI Studio, Claude Code, Openclaw</p>
 
 ## Data Visualization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
