@@ -9,7 +9,7 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 
 ## AI-Powered Applications
 > A curated [collection of AI-powered applications](https://cheeweeng.github.io/Collection-of-AI-powered-Applications/), built using vibe-coding to solve real-world challenges. Each tool demonstrates how intuitive development accelerates the creation of practical, intelligent solutions.
-<p>Tech stack: Google AI Studio, Claude Code, Openclaw</p>
+<p>Tech stack: Google AI Studio, Antigravity, Claude Code, Openclaw</p>
 
 ## Data Visualization and Storytelling  
 > 1. Analysis and report titled "[From Past to Present: An Analytical Overview of Singapore's Parliamentary Elections](https://cheeweeng.github.io/R_prog_capstone_project/ANL501_Rmarkdown.html)"
