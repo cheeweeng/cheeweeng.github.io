@@ -2,7 +2,7 @@
 title: Projects Portfolio
 ---
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
-*  AI-powered apps - Google AI Studio, Claude Code
+*  AI-powered apps - Antigravity, Google AI Studio, Claude Code
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, [Power BI  ](https://cheeweeng.github.io/Data-Visualisation-Story-Telling-with-PowerBI/)
 *  Automation - n8n, Zapier, Make.com
