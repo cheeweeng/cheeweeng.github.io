@@ -2,7 +2,7 @@
 title: Projects Portfolio
 ---
 Welcome to my projects portfolio! I am a mid-career professional transitioning into the world of data analytics, machine learning and AI. I am passionate about continuous learning and currently building my skills in:  
-*  AI-powered apps - Antigravity, Google AI Studio, Claude Code
+*  AI-powered apps - Antigravity, Google AI Studio, Claude Code, LangChain
 *  Programming for data analysis and machine learning - Python, SQL  
 *  Data Visualization - Tableau, [Power BI  ](https://cheeweeng.github.io/Data-Visualisation-Story-Telling-with-PowerBI/)
 *  Automation - n8n, Zapier, Make.com
@@ -42,7 +42,7 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 
 ## LLM-powered Low code App Development  
 > * [Built a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
-> * Built a [Retrieval-Augmented Generation (RAG)](https://github.com/cheeweeng/RAG-using-LangChain) using LangChain Framework
+> * Built a [Retrieval-Augmented Generation (RAG)](https://cheeweeng.github.io/RAG-using-LangChain/) using LangChain Framework
 <p>Language/Program used: Hugging Face, Flowise, LangChain</p> 
 
 ## Predictive Analytics and M/L (E-Commerce Customer Analytics)
