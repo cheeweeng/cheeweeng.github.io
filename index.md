@@ -40,13 +40,10 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 > * a personal [hobby project](https://cheeweeng.github.io/zapier-automation/) that combines my love for running and learning new technologies
 <p>Program used: n8n, Zapier automation, Claude.ai, Telegram, SerpAPI, OpenWeatherMap API, OpenRouteService API, Strava</p> 
 
-## AI voice agent
-> * This [AI voice agent](https://cheeweeng.github.io/AI-Voice-Agent/) handles inbound calls, check calendar and book appointments for a fictitious dental clinic.
-<p>Program used: Retell AI, Chatgpt, Youtube</p>
-
 ## LLM-powered Low code App Development  
-> * [Build a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
-<p>Language/Program used: Hugging Face, Flowise</p> 
+> * [Built a simple chatbot app](https://cheeweeng.github.io/Build-a-Simple-Chatbot-App/) using [Flowise](https://cheeweeng.github.io/Setup-Flowise-on-Hugging-Face/) with LangChain Framework.
+> * Built a [Retrieval-Augmented Generation (RAG)](https://github.com/cheeweeng/RAG-using-LangChain) using LangChain Framework
+<p>Language/Program used: Hugging Face, Flowise, LangChain</p> 
 
 ## Predictive Analytics and M/L (E-Commerce Customer Analytics)
 >    * Data Preparation, [Transformation (Power Query) and Visualization (PowerBI)](https://cheeweeng.github.io/Data-Transformation-and-Visualization/)
