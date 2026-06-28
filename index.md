@@ -34,7 +34,8 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 ## Visual Generative AI (Computer Vision)    
 
 > 1. [Train, fine-tune, evaluate](https://cheeweeng.github.io/Training-and-Fine-tuning-an-image-recognition-and-classification-model/) an image classification model to classify 10 different types of food.
->2. Adaptive Object Detection system
+
+>2. [Adaptive Object Detection app](https://github.com/cheeweeng/Adaptive-Object-Detection-App) is a zero-shot object detetction app that effectively analyse uploaded images and provide reliable identification and counting functionality using a pre-trained generative AI model.  
 <p>Language/Prgram used: Python/Jupyter notebook, PyTorch, keras, Gradio</p>  
 
 ## AI-powered automation workflows  
