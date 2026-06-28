@@ -31,6 +31,12 @@ Welcome to my projects portfolio! I am a mid-career professional transitioning i
 >    * Generate summary tables to explain relationship amongst the variables in the dataset  
 <p>Language/Program used: MySQL/TablePlus/MySQL Workbench</p>
 
+## Visual Generative AI (Computer Vision)    
+
+> 1. [Train, fine-tune, evaluate](https://cheeweeng.github.io/Training-and-Fine-tuning-an-image-recognition-and-classification-model/) an image classification model to classify 10 different types of food.
+>2. Adaptive Object Detection system
+<p>Language/Prgram used: Python/Jupyter notebook, PyTorch, keras, Gradio</p>  
+
 ## AI-powered automation workflows  
 > * [Multilingual Agentic Chatbot](https://cheeweeng.github.io/Multilingual-Agentic-Chatbot/) is a n8n automation workflow that integrates a Telegram bot with AI Agents capable of handling both text and voice messages to fulfil users' queries and execute tasks.
 
